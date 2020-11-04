@@ -1,0 +1,8 @@
+{
+    "name": "wcase6 Example Workflow",
+    "description": "wcase6 Example workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ]
+}
